@@ -32,3 +32,7 @@ accordingly.
 
 What is the worst-case big $\Theta$ complexity of your implementation? Add your
 answer, including your reasoning, to this markdown file.
+
+Like in BFS, The complexity is $\Theta(V + E)$ where V is the # of verteces and E is the number of edges.
+
+[Ford Fulkerson ALg](https://www.geeksforgeeks.org/ford-fulkerson-algorithm-for-maximum-flow-problem/#) 

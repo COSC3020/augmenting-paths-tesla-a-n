@@ -32,3 +32,11 @@ accordingly.
 
 What is the worst-case big $\Theta$ complexity of your implementation? Add your
 answer, including your reasoning, to this markdown file.
+
+Like in BFS, The complexity is $\Theta(V + E)$ where V is the # of verteces and E is the number of edges.
+
+[Ford Fulkerson ALg](https://www.geeksforgeeks.org/ford-fulkerson-algorithm-for-maximum-flow-problem/#) 
+
+Wrote this pcode in code.test.js in VScode and asked Windsurf to implement the test: "//test for a more complex graph with multiple possible paths"
+
+“I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.”
